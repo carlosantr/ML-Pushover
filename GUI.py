@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # -*- coding: utf-8 -*-
 """
 Created on Tue Oct  4 12:49:38 2022
@@ -609,4 +608,3 @@ Label(secB_frame,text="Beams",fg="#0C0268",font=("Arial Black",15)).place(x=71,y
 
 #%%Loop for frame interface
 Win.mainloop()
->>>>>>> 0ef06bc444a48732c3f1ea768654883a8f4c2c50
